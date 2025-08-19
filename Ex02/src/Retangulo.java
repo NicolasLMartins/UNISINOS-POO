@@ -4,7 +4,7 @@ public class Retangulo {
     private double altura = 3.0;
     // private double base;
     // private double altura;
-    private double area = 0.0;
+    private double area;
 
     // public Retangulo(double base, double altura) {
     //     this.base = base;
